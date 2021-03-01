@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LocationOwner.dhaka"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:padding="20dp"
+        android:background="#009398"
+        >
+
+        <ImageView
+            android:id="@+id/book"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/dhaka"
+            tools:srcCompat="@drawable/dhaka" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/book"
+            android:fontFamily="sans-serif-black"
+            android:text="Sylhet"
+            android:textColor="#FFFFFF"
+
+            android:textSize="30sp" />
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_marginTop="-100dp"
+        >
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="0dp"
+            android:layout_height="125dp"
+            android:layout_weight="1"
+            app:cardBackgroundColor="#009398"
+            app:cardElevation="10dp"
+            android:layout_margin="10dp"
+
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+
+                >
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/redlock"
+                    tools:srcCompat="@drawable/redlock" />
+
+                <Button
+                    android:id="@+id/lock"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="@font/electrolize"
+                    android:text="LOCK"
+                    android:textAllCaps="false"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:backgroundTint="#FFFFFF"
+                    app:cornerRadius="17dp"
+                    app:elevation="27dp" />
+
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="0dp"
+            android:layout_height="125dp"
+            android:layout_weight="1"
+            app:cardBackgroundColor="#009398"
+            app:cardElevation="10dp"
+            android:layout_margin="10dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                >
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/redunlock"
+                    tools:srcCompat="@drawable/redunlock" />
+
+                <Button
+                    android:id="@+id/unlock"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="45dp"
+                    android:fontFamily="@font/electrolize"
+                    android:text="UNLOCK"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    app:backgroundTint="#FFFFFF"
+                    app:cornerRadius="17dp"
+                    app:elevation="27dp" />
+
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Chairman"
+            app:boxBackgroundColor="#FFFFFF">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="Prof. Md. Abdus Salam" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contact"
+            app:boxBackgroundColor="#FFFFFF">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="+8801728866232" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            app:boxBackgroundColor="#FFFFFF">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="chairman@sylheteducationboard.gov.bd" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Website"
+            app:boxBackgroundColor="#FFFFFF">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:fontFamily="sans-serif-medium"
+                android:text="sylheteducationboard.gov.bd" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
