@@ -27,4 +27,12 @@ https://www.youtube.com/watch?v=ZPBS2nfLD30&t=22s
 - If the Authority presses the LOCK button all the boxes under Dhaka board will be LOCKED from inside over internet.
 - If some culprits break the box without any authorization of the Ministry of Education the App will send an immediate email and notifiaction to the nearest Police station and the Ministry of Education. 
 
+## Built With
+- For The Android App I used JAVA
+- To program NodeMCU (Single-board microcontroller) I have used C++
+- After analyzing all the sensor data for triggering automated puch notification I have used Python
+- For the realtime database management I have used FIREBASE
+
+<img src="images/ss9.png" width=200 >   <img src="images/ss10.png" width=200 >   <img src="images/ss11.png" width=200 >   <img src="images/ss12.png" width=200 >
+
 
