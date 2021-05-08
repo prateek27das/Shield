@@ -9,7 +9,7 @@ We will send question paper to the institutions in a box. By using the App calle
 __Here is a short clip demonstrating my project:__
 
 
-https://www.youtube.com/watch?v=ZPBS2nfLD30&t=22s
+https://youtu.be/ZPBS2nfLD30
 
 
 
