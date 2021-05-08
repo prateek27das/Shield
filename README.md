@@ -10,4 +10,8 @@ Here is a short clip demonstrating my project:
 
 https://www.youtube.com/watch?v=ZPBS2nfLD30&t=22s
 
-![](images/ss1.png)
+<img src="images/ss1.png" width=200 >   <img src="images/ss2.png" width=200 >   <img src="images/ss3.png" width=200 >   <img src="images/ss4.png" width=200 >
+<img src="images/ss5.png" width=200 >   <img src="images/ss6.png" width=200 >   <img src="images/ss7.png" width=200 >   <img src="images/ss8.png" width=200 >
+
+
+
