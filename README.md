@@ -59,6 +59,10 @@ Code Link : https://github.com/prateek27das/Shield_Notification-
 
       $ git clone https://github.com/prateek27das/Shield
       
+## Libraries Used
+- Firebase cloud storage as the NOSQL database
+- Cloud messaging for push notification
+      
 ## Future Prespects
 - Global Expantion.
 - Feature Enhancement.
