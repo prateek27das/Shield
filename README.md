@@ -63,7 +63,7 @@ Code Link : https://github.com/prateek27das/Shield_Notification-
 - Firebase cloud storage as the NOSQL database
 - Cloud messaging for push notification
       
-## Future Prespects
+## What's Next
 - Global Expantion.
 - Feature Enhancement.
 - Realtime chat and call accessibility between the Institutions and the  Ministry of Education.
