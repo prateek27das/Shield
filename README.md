@@ -64,8 +64,6 @@ Code Link : https://github.com/prateek27das/Shield_Notification-
 - Cloud messaging for push notification
       
 ## What's Next
-- Global Expantion.
-- Feature Enhancement.
 - Realtime chat and call accessibility between the Institutions and the  Ministry of Education.
 - Realtime Location Tracking of the BOX.
 - Convert the whole Android App codebase into Kotlin.
