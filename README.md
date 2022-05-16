@@ -1,7 +1,7 @@
 # Shield
-SHIELD is a project about terminating the question paper piracy in Bangladesh.
+SHIELD is a project about terminating the question paper piracy in INDIA.
 ## Problem
-Question paper piracy is a critical issue in BANGLADESH due to which people with power gets to secure seats while those who deserve it are left helpless. . There are many ways that question papers have been pirated over the years but most of the time, culprits cut the packet of the question paper, take a snap of it and share it over internet.
+Question paper piracy is a critical issue in INDIA due to which people with power gets to secure seats while those who deserve it are left helpless. . There are many ways that question papers have been pirated over the years but most of the time, culprits cut the packet of the question paper, take a snap of it and share it over internet.
 ## How SHIELD would solve it:
 
 We will send question paper to the institutions in a box. By using the App called "Shield" the box can be locked from inside over internet and if someone breaks the box with any authorization of the Ministry of Education it will send an immediate email and notification to the nearest police station and the ministry of education.
@@ -13,14 +13,20 @@ https://youtu.be/ZPBS2nfLD30
 
 
 
+
+
+
+
+
 ## Screenshots
 
-<img src="images/ss1.png" width=200 >   <img src="images/ss2.png" width=200 >   <img src="images/ss3.png" width=200 >   <img src="images/ss4.png" width=200 >
-<img src="images/ss5.png" width=200 >   <img src="images/ss6.png" width=200 >   <img src="images/ss7.png" width=200 >   <img src="images/ss8.png" width=200 >
+<img src="images/ss1.png" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501508-551750a3-717e-472e-8c1b-6daa47d9fefb.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501503-bec5e2ad-92ae-4ff1-a214-d6c54d75ab30.jpg" width=200 > <img src="https://user-images.githubusercontent.com/77295322/168502011-36a2ddee-d085-438a-9e80-49c2d6471bf3.jpg" width=200 ><img src="https://user-images.githubusercontent.com/77295322/168501510-54d11940-376d-4780-8c65-45d5b73719b0.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501511-1bd0bb14-4ccf-4522-b5ef-b95589cf65db.jpg" width=200 >   <img src="https://user-images.githubusercontent.com/77295322/168501513-72cd0b82-c8e0-4d34-9156-46631cae0def.jpg" width=200 >   <img src="https://user-images.githubusercontent.com/77295322/168501496-89edda4b-b087-44de-9eb9-32dede518142.jpg" width=200 >
+
+
 
 ## App Features
 
-- In the app dashboard there are eight different card views consisting the name of the Board under Ministry of Education. For instance Dhaka, Chittagong, Rajshahi, Comilla, Jessore, Sylhet, Dinajpur and Barisal.
+- In the app dashboard there are eight different card views consisting the name of the Board under Ministry of Education.
 - Say we want to LOCK all the boxes under Dhaka Board then we can head over to the Dhaka Board CardView.
 - Here we can see the LOCK and UNLOCK button.
 - Underneath that we can see the basic information of Dhaka Board.
