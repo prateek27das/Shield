@@ -26,12 +26,13 @@ https://www.youtube.com/watch?v=83I5RI_FRy0
 
 ## App Features
 
-- In the app dashboard there are eight different card views consisting the name of the Board under Ministry of Education.
-- Say we want to LOCK all the boxes under Dhaka Board then we can head over to the Dhaka Board CardView.
-- Here we can see the LOCK and UNLOCK button.
-- Underneath that we can see the basic information of Dhaka Board.
-- If the Authority presses the LOCK button all the boxes under Dhaka board will be LOCKED from inside over internet.
-- If some culprits break the box without any authorization of the Ministry of Education the App will send an immediate email and notifiaction to the nearest Police station and the Ministry of Education. 
+- In the app dashboard there are eight different card views consisting of the name of the Board under the Ministry of Education.
+- Say we want to LOCK all the boxes under Delhi Board then we can head over to the Dhaka Board CardView.
+- Here we can see the LOCK and UNLOCK buttons.
+- Underneath that we can see the basic information of the Delhi Board.
+- If the Authority presses the LOCK button all the boxes under the Delhi board will be LOCKED from inside over the internet.
+- If some culprits break the box without any authorization of the Ministry of Education the App will send an immediate email and notification to the nearest Police station and the Ministry of Education.
+- By simply pressing the 'locate' button, we can instantly access the real-time location of the box. 
 
 ## Built With
 - For The Android App I have used __JAVA__
